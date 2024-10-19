@@ -1,0 +1,16 @@
+{
+  "name": "teste-deploy",
+  "version": "1.0.0",
+  "description": "Teste para Deploy",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "MIT",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
